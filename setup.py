@@ -7,14 +7,14 @@ def read(fname):
         return f.read()
 
 setuptools.setup(
-    name="surfs-up",
+    name="metallic-spectacles",
     version="0.0.1",
     author="Tony Fast",
     author_email="tony.fast@gmail.com",
     description="Simple reusable magics.",
     license="BSD-3-Clause",
     keywords="IPython Magic Jupyter",
-    url="http://github.com/tonyfast/surfs-up",
+    url="https://github.com/tonyfast/metallic-spectacles",
     packages=setuptools.find_packages(),
     long_description=read("readme.rst"),
     classifiers=[

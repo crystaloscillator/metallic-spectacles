@@ -8,5 +8,5 @@ docs/.jekyll-metadata
 docs/*.py
 docs/**/*.py
 docs/_site
-dropin/*.html
+glasses/*.html
 .DS_Store
