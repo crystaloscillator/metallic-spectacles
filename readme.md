@@ -1,6 +1,8 @@
 
 # `surfs-up`
 
+[![Join the chat at https://gitter.im/metallic-spectacles/Lobby](https://badges.gitter.im/metallic-spectacles/Lobby.svg)](https://gitter.im/metallic-spectacles/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Some things I like to use when I am surfing through data.
 
 ## Installation
